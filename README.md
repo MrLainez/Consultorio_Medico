@@ -1,4 +1,4 @@
-# 🏥 Sistema de Administración de Clínica - Ejecutable 
+# 🏥 Sistema de Administración de Clínica 
 
 Sistema integral para la gestión de consultorios médicos desarrollado en **Java**. Esta versión ha sido empaquetada en un archivo **Fat JAR**, lo que permite su ejecución inmediata sin necesidad de compilar código fuente.
 
